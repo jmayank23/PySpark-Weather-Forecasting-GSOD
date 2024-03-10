@@ -58,9 +58,6 @@ pip install -r requirements.txt
 6. **Visualization**: Use Matplotlib and Seaborn for data distributions and model predictions.
 7. **SHAP Analysis**: Compute SHAP values for model interpretation.
 
-## Contributing
-
-Contributions are welcome! Fork this repository, contribute changes, or open issues to suggest improvements or ask questions.
 
 ## License
 
