@@ -46,7 +46,7 @@ Ensure you have Java 8 or 11 installed (needed for Apache Spark).
 pip install -r requirements.txt
 ```
 
-2. **Download the GSOD Dataset**: To access the GSOD dataset, download it from [Google BigQuery] (https://console.cloud.google.com/marketplace/product/noaa-public/gsod). The dataset contains approximately 4 million rows with numerous missing values, requiring comprehensive data imputation.
+2. **Download the GSOD Dataset**: To access the GSOD dataset, download it from [Google BigQuery](https://console.cloud.google.com/marketplace/product/noaa-public/gsod). The dataset contains approximately 4 million rows with numerous missing values, requiring comprehensive data imputation.
 
 ## How to Use
 
